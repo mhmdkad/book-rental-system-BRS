@@ -20,3 +20,13 @@ A librarian can
     list book rentals,
     view the details of a book rental,
     change some status on a book rental, like status, deadline, note.
+
+
+![image](https://github.com/mhmdkad/book-rental-system-BRS/assets/93993716/f1129476-ead7-47f8-af5f-bc854b45b878)
+
+![image](https://github.com/mhmdkad/book-rental-system-BRS/assets/93993716/39088790-ee49-45a1-9667-0e0912efdc89)
+
+![image](https://github.com/mhmdkad/book-rental-system-BRS/assets/93993716/9b5671e2-45c8-4b60-8700-863271f8bbf3)
+
+![image](https://github.com/mhmdkad/book-rental-system-BRS/assets/93993716/81833b28-d484-457a-8282-856040bb2a56)
+
